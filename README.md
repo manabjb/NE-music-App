@@ -1,3 +1,5 @@
+<h1 style="color:blue">
+
 # NE Music Player made by NE Developer's
 ### Song list trees
 
@@ -16,9 +18,9 @@
 --Windows
 --All HTML Based Platforms Support This Resources
 
-#Some latest screenshots
+# Some latest screenshots
 
-##Mobile Device
+## Mobile Device
 
 ### images
 
@@ -35,14 +37,14 @@
 
 ![](https://i.imgur.com/BAgUYM0.jpg)
 
-#Desktop 
+# Desktop 
 
 ### images
 
 ![](https://i.imgur.com/3LYN6WI.jpg)
 
 
-#Developer Information
+# Developer Information
 
 ### Name: ManabJB :blush: 
 ### Organisation: NE App Developer's
