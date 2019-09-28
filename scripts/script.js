@@ -22,7 +22,7 @@ new Vue({
           artist: "Dr Bhupen Hazarika",
           cover: "https://www.sentinelassam.com/wp-content/uploads/2018/09/Dr_Bhupen_Hazarika.jpg",
           source: "https://asomi.in/files/download/id/7781",
-          url: "https://www.youtube.com/watch?v=z3wAjJXbYzA",
+          url: "",
           favorited: false
         },
         {
@@ -30,7 +30,7 @@ new Vue({
           artist: "Dr Bhupen Hazarika",
           cover: "https://www.sentinelassam.com/wp-content/uploads/2018/09/Dr_Bhupen_Hazarika.jpg",
           source: "https://asomi.in/files/download/id/7780",
-          url: "https://www.youtube.com/watch?v=z3wAjJXbYzA",
+          url: "",
           favorited: false
         },
         {
@@ -38,7 +38,7 @@ new Vue({
           artist: "Dr Bhupen Hazarika",
           cover: "https://www.sentinelassam.com/wp-content/uploads/2018/09/Dr_Bhupen_Hazarika.jpg",
           source: "https://asomi.in/files/download/id/7782",
-          url: "https://www.youtube.com/watch?v=z3wAjJXbYzA",
+          url: "",
           favorited: false
         },
         {
@@ -46,7 +46,7 @@ new Vue({
           artist: "Dr Bhupen Hazarika",
           cover: "https://www.sentinelassam.com/wp-content/uploads/2018/09/Dr_Bhupen_Hazarika.jpg",
           source: "https://asomi.in/files/download/id/7779",
-          url: "https://www.youtube.com/watch?v=z3wAjJXbYzA",
+          url: "",
           favorited: false
         },
         {
@@ -54,7 +54,7 @@ new Vue({
           artist: "Dr Bhupen Hazarika",
           cover: "https://www.sentinelassam.com/wp-content/uploads/2018/09/Dr_Bhupen_Hazarika.jpg",
           source: "https://asomi.in/files/download/id/7778",
-          url: "https://www.youtube.com/watch?v=z3wAjJXbYzA",
+          url: "",
           favorited: false
         },
         {
@@ -62,7 +62,7 @@ new Vue({
           artist: "Dr Bhupen Hazarika",
           cover: "https://www.sentinelassam.com/wp-content/uploads/2018/09/Dr_Bhupen_Hazarika.jpg",
           source: "https://asomi.in/files/download/id/7777",
-          url: "https://www.youtube.com/watch?v=z3wAjJXbYzA",
+          url: "",
           favorited: false
         },
         {
@@ -70,7 +70,7 @@ new Vue({
           artist: "Dr Bhupen Hazarika",
           cover: "https://www.sentinelassam.com/wp-content/uploads/2018/09/Dr_Bhupen_Hazarika.jpg",
           source: "https://asomi.in/files/download/id/7776",
-          url: "https://www.youtube.com/watch?v=z3wAjJXbYzA",
+          url: "",
           favorited: false
         },
         {
@@ -78,7 +78,7 @@ new Vue({
           artist: "Dr Bhupen Hazarika",
           cover: "https://www.sentinelassam.com/wp-content/uploads/2018/09/Dr_Bhupen_Hazarika.jpg",
           source: "https://asomi.in/files/download/id/7775",
-          url: "https://www.youtube.com/watch?v=z3wAjJXbYzA",
+          url: "",
           favorited: false
         }
       ],
