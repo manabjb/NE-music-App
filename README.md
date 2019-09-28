@@ -16,6 +16,32 @@
 --Windows
 --All HTML Based Platforms Support This Resources
 
+#Some latest screenshots
+
+##Mobile Device
+
+### images
+
+![](https://i.imgur.com/1ln8FaR.jpg)
+
+
+
+### images
+
+![](https://i.imgur.com/k5DfzNx.jpg)
+
+
+### images
+
+![](https://i.imgur.com/BAgUYM0.jpg)
+
+#Desktop 
+
+### images
+
+![](https://i.imgur.com/3LYN6WI.jpg)
+
+
 #Developer Information
 
 ### Name: ManabJB :blush: 
