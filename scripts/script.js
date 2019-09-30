@@ -14,7 +14,7 @@ new Vue({
           artist: "Lata Mangeshkar",
           cover: "https://content.hungama.com/audio%20album/display%20image/300x300%20jpeg/5265784135.jpg",
           source: "https://funksyou.com/fileDownload/Songs/128/4453.mp3",
-          url: "https://www.youtube.com/watch?v=z3wAjJXbYzA",
+          url: "",
           favorited: false
         },
         {
