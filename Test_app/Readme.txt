@@ -1,6 +1,6 @@
-This app only for testing on Android platform
 
-If you have got bugs Please commit me
+#  There are two version of app available
+###  first one is server based
+###  second one is android assets/resources based
 
-thank you for using my sources
-
+## I will upload every new update of android based app here only this Test App section
